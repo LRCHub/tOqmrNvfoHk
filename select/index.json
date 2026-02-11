@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Easy Lover",
+  "base_artist": "Philip Bailey",
+  "createdAt": "2026-02-11T07:00:55.001784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Philip Bailey feat. Phil Collins",
+      "has_synced": true,
+      "path": "select/01_Easy_Lover_Philip_Bailey_feat._Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/02_Easy_Lover_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Easy Lover - Live from the Serious Tour, 1990; 2019 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/03_Easy_Lover_-_Live_from_the_Serious_Tour,_1990;_2019_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Easy Lover (Live from the Serious Tour, 1990) [2019 Remaster] (Remastered)",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/04_Easy_Lover_(Live_from_the_Serious_Tour,_1990)_[2019_Remaster]_(Remastered)_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/05_Easy_Lover_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Philip Bailey & Phil Collins",
+      "has_synced": true,
+      "path": "select/06_Easy_Lover_Philip_Bailey_&_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/07_Easy_Lover_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/08_Easy_Lover_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Phil Collins & Philip Bailey",
+      "has_synced": true,
+      "path": "select/09_Easy_Lover_Phil_Collins_&_Philip_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/10_Easy_Lover_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/11_Easy_Lover_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Easy Lover - Live",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/12_Easy_Lover_-_Live_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Easy Lover (Live)",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/13_Easy_Lover_(Live)_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Philip Bailey & Phil Collins",
+      "has_synced": true,
+      "path": "select/14_Easy_Lover_Philip_Bailey_&_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Easy Lover",
+      "artist": "Philip Bailey",
+      "has_synced": true,
+      "path": "select/15_Easy_Lover_Philip_Bailey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Easy Lover",
+      "artist": "Philip Bailey",
+      "has_synced": false,
+      "path": "select/pl_01_Easy_Lover_Philip_Bailey.txt"
+    }
+  ]
+}
